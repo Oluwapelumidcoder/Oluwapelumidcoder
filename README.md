@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwapelumidcoder
 - 👀 I’m interested in making the world a better place through data science.
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science and analytics.
 - 💞️ I’m looking to collaborate on any related projects.
 - 📫 How to reach me @oluwa_mipelumi on twitter.
 
